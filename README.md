@@ -1,4 +1,5 @@
 # 60-days-of-ai-portfolio
+Day-1
 I'd love to build this, but I should be upfront about two things first:
 
 **I don't have any history with you yet** — no past prompts, no memory of how you work. This is our first conversation, so a "deeply personalized" profile right now would just be me making things up and dressing it in cinematic language. I can absolutely build something legit, but I need you to tell me about yourself first.
